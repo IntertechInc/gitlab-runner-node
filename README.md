@@ -1,7 +1,7 @@
 # gitlab-runner-node
  gitlab-ci-multi-runner with the latest version of node installed.
 
- We love [gitlab](https://gitlab.com) at []@intertech](http://www.intertech.com)!
+ We love [gitlab](https://gitlab.com) at [@intertech](http://www.intertech.com)!
 
  ## Usage
 
