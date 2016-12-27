@@ -6,7 +6,7 @@ RUN apt-get update && apt-get install -y \
       python \
       fontconfig
 
-RUN curl --silent --location https://deb.nodesource.com/setup_4.x | bash
+RUN curl --silent --location https://deb.nodesource.com/setup_7.x | bash
 
 RUN apt-get update && apt-get install -y \
       nodejs
